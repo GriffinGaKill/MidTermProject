@@ -2560,3 +2560,51 @@ Received Import Request.
 Start importing Assets/Models/landscape.obj using Guid(fbd4920e09885e4419f19cd9623747e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e906cfef61618207e9747b704c879f13') in 0.045792 seconds 
   Import took 0.050237 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2042.922580 seconds.
+  path: Assets/Materials/New Physic Material.physicMaterial
+  artifactKey: Guid(ca153e71b4ea787449dbb9bd6c42f01c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Physic Material.physicMaterial using Guid(ca153e71b4ea787449dbb9bd6c42f01c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '342979556fa44c828df51c401aaf459e') in 0.006934 seconds 
+  Import took 0.010640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.801873 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(82fa2ed31fad2e04a846456c1b775210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(82fa2ed31fad2e04a846456c1b775210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd9341fcce0c5d6faaa76adb7f616a6') in 0.037446 seconds 
+  Import took 0.040634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.097310 seconds.
+  path: Assets/Materials/Key.mat
+  artifactKey: Guid(82fa2ed31fad2e04a846456c1b775210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Key.mat using Guid(82fa2ed31fad2e04a846456c1b775210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b700c1fe48bf692b3533e5aa015596a') in 0.015974 seconds 
+  Import took 0.019603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2266.496833 seconds.
+  path: Assets/Textures/FCOVGm-WYAMVgBJ.jpg
+  artifactKey: Guid(8bdaf1c62e58460409a736fa34c2c606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/FCOVGm-WYAMVgBJ.jpg using Guid(8bdaf1c62e58460409a736fa34c2c606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5489a77f387e7733050d3ad1527cf3aa') in 0.064132 seconds 
+  Import took 0.069290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.188633 seconds.
+  path: Assets/Textures/WM_Marble-125_1024.png
+  artifactKey: Guid(f157a48dbef070f438cf929454ad55b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/WM_Marble-125_1024.png using Guid(f157a48dbef070f438cf929454ad55b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a28c34ad3d884dbe5ed1b959fd33a37c') in 0.022688 seconds 
+  Import took 0.026134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.987984 seconds.
+  path: Assets/Materials/Stone Pillar.mat
+  artifactKey: Guid(2598ca2138c4b5548983eaad82891b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stone Pillar.mat using Guid(2598ca2138c4b5548983eaad82891b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da41f92d3fbe5641a5b6511fcd5b941') in 0.019255 seconds 
+  Import took 0.023171 seconds .
+
