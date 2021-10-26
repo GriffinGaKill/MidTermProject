@@ -7,12 +7,14 @@ public class Jump : MonoBehaviour
     public float jumpForce = 1;
     public float maxForce = 10;
     public Rigidbody reggiebody;
+    public bool alive;
 
     private float accumulatedForce = 0;
     public float m_Speed = 5f;
 
     private void Start()
     {
+        alive = true;
         //Fetches the rigidbody from the game object.
         reggiebody = GetComponent<Rigidbody>();
     }

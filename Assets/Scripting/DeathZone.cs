@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DeathZone : MonoBehaviour
 {
@@ -13,5 +14,8 @@ public class DeathZone : MonoBehaviour
         Instantiate(deathParticles, otherPosition, Quaternion.identity);
 
         Destroy(other.gameObject);
+
+        SceneManager.LoadScene("Game Over");
     }
+
 }
