@@ -9,9 +9,22 @@ public class Jump : MonoBehaviour
     public Rigidbody reggiebody;
 
     private float accumulatedForce = 0;
+    public float m_Speed = 5f;
+
+    private void Start()
+    {
+        //Fetches the rigidbody from the game object.
+        reggiebody = GetComponent<Rigidbody>();
+    }
 
     private void Update()
     {
+        //Store User input as a movement vector
+        Vector3 m_Input = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
+
+        //Apply the movement vector to the current position, which is multiplied by deltaTime and speed for a smooth MovePosition
+        reggiebody.MovePosition(transform.position + m_Input * Time.deltaTime * m_Speed);
+
         if (Input.GetButtonDown("Jump"))
         {
             accumulatedForce = 0;
